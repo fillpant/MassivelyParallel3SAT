@@ -1,0 +1,6 @@
+.vs/
+x64/
+NsightComputeTests/
+*.sln
+*.user
+*.vcxproj
